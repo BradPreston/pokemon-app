@@ -1,0 +1,86 @@
+.fire {
+  background: linear-gradient(
+    to bottom,
+    rgba(128, 17, 0, 1),
+    rgba(215, 53, 2, 1)
+  );
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.grass,
+.bug {
+  background: linear-gradient(
+    to bottom,
+    rgba(19, 109, 21, 1),
+    rgba(65, 152, 10, 1)
+  );
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.water {
+  background: linear-gradient(
+    to bottom,
+    rgba(15, 94, 156, 1),
+    rgba(28, 163, 236, 1)
+  );
+}
+
+.normal,
+.flying {
+  background: linear-gradient(
+    to bottom,
+    rgba(121, 121, 121, 1),
+    rgba(197, 197, 197, 1)
+  );
+}
+
+.psychic,
+.poison,
+.ghost {
+  background: linear-gradient(
+    to bottom,
+    rgba(76, 0, 112, 1),
+    rgba(121, 1, 140, 1)
+  );
+  color: #fff;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.fairy {
+  background: linear-gradient(
+    to bottom,
+    rgba(242, 120, 159, 1),
+    rgba(254, 227, 236, 1)
+  );
+}
+
+.ground,
+.fighting,
+.rock {
+  background: linear-gradient(
+    to bottom,
+    rgba(134, 84, 57, 1),
+    rgba(198, 139, 89, 1)
+  );
+}
+
+.electric {
+  background: linear-gradient(
+    to bottom,
+    rgba(255, 199, 16, 1),
+    rgba(255, 219, 121, 1)
+  );
+}
+
+.ice {
+  background: linear-gradient(
+    to bottom,
+    rgb(54, 148, 235),
+    rgba(180, 207, 250, 1)
+  );
+}
